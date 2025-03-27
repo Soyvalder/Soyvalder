@@ -4,8 +4,7 @@
 </p>
 
 
-<img align="right" width=300px alt="Unicorn"
-  
+<img align="right" width=350px alt="Unicorn"
 src="https://media.giphy.com/media/yxO8bvm9KKSpGPCBM8/giphy.gif?cid=ecf05e47ijz4tvp1xsfymnx2xxxgn1kyz14ixqth37m3ir7w&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
