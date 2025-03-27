@@ -8,7 +8,7 @@
 src="https://media.giphy.com/media/yxO8bvm9KKSpGPCBM8/giphy.gif?cid=ecf05e47ijz4tvp1xsfymnx2xxxgn1kyz14ixqth37m3ir7w&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-
+<h1></h1>
 
 I am growth-oriented with 3+ years of experience in different roles, adaptable and always working with a smile 😊. After working in various areas such as Financial Market Management & Analysis, Accounting, Support, P2P, IT and Logistics, I have decided to orient my career towards data.
 
