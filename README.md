@@ -3,6 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+Data+Science+Student;ESTADISTICA%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+
 <img align="right" width=300px alt="Unicorn"
 src="https://media.giphy.com/media/yxO8bvm9KKSpGPCBM8/giphy.gif?cid=ecf05e47ijz4tvp1xsfymnx2xxxgn1kyz14ixqth37m3ir7w&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
