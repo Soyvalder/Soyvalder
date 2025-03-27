@@ -3,12 +3,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+Data+Science+Student;ESTADISTICA%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-
+<h1></h1>
 <img align="right" width=300px alt="Unicorn"
 src="https://media.giphy.com/media/yxO8bvm9KKSpGPCBM8/giphy.gif?cid=ecf05e47ijz4tvp1xsfymnx2xxxgn1kyz14ixqth37m3ir7w&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-<h1></h1>
+
 
 I am growth-oriented with 3+ years of experience in different roles, adaptable and always working with a smile 😊. After working in various areas such as Financial Market Management & Analysis, Accounting, Support, P2P, IT and Logistics, I have decided to orient my career towards data.
 
