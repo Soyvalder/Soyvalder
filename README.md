@@ -23,6 +23,8 @@ Automation.
 ✔ Ask me about anything, I am happy to help, especially if the ball is in my court! 😉
 Outside of technology, I 📖 draw, 🎵 listen to music, and 🌳 explore nature outdoors.
 
+Con más de 3 años de experiencia en  diferentes áreas como Gestión de Mercados Financieros, Contabilidad, Soporte, P2P, TI y Logística, con un enfoque actual en análisis y ciencia de datos. Estoy en constante aprendizaje de herramientas como Excel, Power BI, Tableau, Python y SQL, y disfruto colaborar en proyectos relacionados con datos. Además, tengo intereses en el dibujo, la música y la exploración de la naturaleza.
+
 - 📫 Contácteme al correo: <a href="macquera20@gmail.com">macquera20@gmail.com</a>
 
 __Echa un vistazo a mi repositorio de GitHub:__
