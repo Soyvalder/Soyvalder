@@ -9,7 +9,7 @@ src="https://media.giphy.com/media/yxO8bvm9KKSpGPCBM8/giphy.gif?cid=ecf05e47ijz4
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-
+<a></a> 
 I am growth-oriented with 3+ years of experience in different roles, adaptable and always working with a smile 😊. After working in various areas such as Financial Market Management & Analysis, Accounting, Support, P2P, IT and Logistics, I have decided to orient my career towards data.
 
 I am interested in data analysis and data science
